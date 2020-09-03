@@ -38,7 +38,7 @@ export default {
     return {
       values: [
         { name: "Marthin Tampubolon", id: 2, age: 22 },
-        { name: "Barack Obama", id: 1, age: 42 },
+        { name: "Nama 2", id: 1, age: 42 },
         { name: "Plugin Foo Bar", id: 3, age: 79 },
         { name: "Nama", id: 4, age: 20 },
         { name: "nesty", id: 5, age: 18 },
